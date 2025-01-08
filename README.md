@@ -63,9 +63,8 @@ This repository thrives on community contributions! Here’s how you can help ma
 2. **Clone Your Fork**  
    - Copy the URL of your fork and run the following command in your terminal to clone it locally:
      ```bash
-     git clone https://github.com/<your-username>/Community-Templates.git
+     git clone https://github.com/SyncWide-Solutions/Community-Templates.git
      ```
-   - Replace `<your-username>` with your GitHub username.
 
 3. **Create a New Branch**  
    - Switch to a new branch for your changes:
