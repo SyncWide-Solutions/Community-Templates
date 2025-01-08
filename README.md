@@ -68,24 +68,43 @@ We review contributions regularly and value your input to grow this community-dr
 ## Folder Structure
 
 community-templates/
+
 ├── server-configs/
+
 │   ├── nginx-template.conf
+
 │   ├── apache-template.conf
+
 │   ├── init-script.sh
+
 ├── monitoring/
+
 │   ├── health-check.py
+
 │   ├── grafana-config.json
+
 │   ├── crontab-schedule.txt
+
 ├── api-examples/
+
 │   ├── syncwide-api-python.py
+
 │   ├── rest-api-postman.json
+
 │   ├── nodejs-example.js
+
 ├── backup-recovery/
+
 │   ├── db-backup.sh
+
 │   ├── rclone-config.template
+
 │   ├── restore-script.py
+
 └── custom-plugins/
+
     ├── plugin-example.py
+    
     ├── syncwide-extension.py
 
 ---
