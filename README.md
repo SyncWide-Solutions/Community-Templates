@@ -160,7 +160,7 @@ This repository is licensed under the **MIT License**, making it free to use and
 ## Feedback and Support
 
 - Found an issue? [Create an Issue](https://github.com/SyncWide-Solutions/Community-Templates/issues) and we’ll address it promptly.
-- Have questions? Reach out to us at [support@syncwide.com](mailto:support@syncwide.com).
+- Have questions? Reach out to us at [info@syncwi.de](mailto:info@syncwi.de).
 
 ---
 
